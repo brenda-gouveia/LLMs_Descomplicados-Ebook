@@ -12,81 +12,76 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="400"  
+    src="./assets/cover.jpg"
+    width="300"  
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# 📘 LLMs Descomplicados
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+Este eBook foi desenvolvido como projeto final do curso de criação de eBooks da [DIO](https://dio.me), com o objetivo de **explicar de forma didática e acessível** os conceitos, a evolução e as aplicações dos **Modelos de Linguagem de Grande Escala (LLMs)** — tecnologias que estão transformando a forma como humanos e máquinas se comunicam.
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/brenda-gouveia/LLMs_Descomplicados-Ebook/output/ebook_llm.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.ai](https://leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
+---
+
+## 🏗️ Estrutura do eBook
+
+O conteúdo foi dividido em capítulos curtos e ilustrativos, combinando texto, ícones e esquemas visuais para facilitar a leitura digital.
+
+### **📑 Sumário resumido**
+1. O que são LLMs e por que importam
+2. A arquitetura que mudou tudo: Transformers  
+3. Os principais modelos atuais
+4. Como os LLMs estão sendo usados na prática
+5. O futuro dos LLMs
 
 ## 🧠 Prompts
 
 
-ChatGPT：
+### ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| Finalidade | Prompt |
+|------------|--------|
+| **Título do Ebook** | "Crie um título de ebook sobre o tema LLM. Tem que ser didático e introdutório de forma a apresentar os modelos principais e também a arquitetura e características principais." |
 
 
-Midjourney：
 
-|  Ação  | prompt                                                                                 |
+### Leonardo.ai：
+
+|  Ação  | Prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| **Capa** | “Creative and educational ebook cover about artificial intelligence and large language models (LLMs). A human and a friendly robot talking face to face, with floating text bubbles and symbols between them, representing learning and communication. Bright background with blue and white tones, clean and modern design, friendly and didactic style.” |
 
-## ✨ Features
+## 📈 Resultados
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+O resultado é um eBook educativo e visualmente atraente, ideal para:
+- Introduzir o tema de LLMs para não especialistas.  
+- Ser compartilhado em redes profissionais como **LinkedIn**.  
+- Servir de portfólio ou material de apresentação para recrutadores e empresas.
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## ✨ Autor(a)
+
+**Brenda Gomes Gouveia dos Santos**  
+📍 Desenvolvedora em formação | Apaixonada por IA, automação e tecnologia.  
+💼 Conecte-se no [LinkedIn](https://www.linkedin.com/in/brenda-gomes-gouveia) para conhecer mais projetos.
+
+---
+
+## 📎 Licença
+
+Este projeto é de uso educacional e pode ser compartilhado com atribuição ao autor.  
+© 2025 – Todos os direitos reservados.
+
+---
